@@ -1,0 +1,136 @@
+Uri: https://www.typingmind.com/
+File Name: C:\Users\Burnersen\Downloads\test\www.typingmind.com\index.htm
+Content Type: text/html
+
+Uri: https://www.typingmind.com/apple-icon-152x152.png
+File Name: C:\Users\Burnersen\Downloads\test\www.typingmind.com\apple-icon-152x152.png
+Content Type: image/png
+
+Uri: https://www.typingmind.com/apple-icon-180x180.png
+File Name: C:\Users\Burnersen\Downloads\test\www.typingmind.com\apple-icon-180x180.png
+Content Type: image/png
+
+Uri: https://www.typingmind.com/favicon-16x16.png
+File Name: C:\Users\Burnersen\Downloads\test\www.typingmind.com\favicon-16x16.png
+Content Type: image/png
+
+Uri: https://www.typingmind.com/favicon-32x32.png
+File Name: C:\Users\Burnersen\Downloads\test\www.typingmind.com\favicon-32x32.png
+Content Type: image/png
+
+Uri: https://www.typingmind.com/favicon-96x96.png
+File Name: C:\Users\Burnersen\Downloads\test\www.typingmind.com\favicon-96x96.png
+Content Type: image/png
+
+Uri: https://www.typingmind.com/manifest.json
+File Name: C:\Users\Burnersen\Downloads\test\www.typingmind.com\manifest.json
+Content Type: application/json
+
+Uri: https://www.typingmind.com/_next/static/75c8cHkDMbP7Bp6cLxwwg/_buildManifest.js
+File Name: C:\Users\Burnersen\Downloads\test\www.typingmind.com\_next\static\75c8cHkDMbP7Bp6cLxwwg\_buildManifest.js
+Content Type: application/javascript
+
+Uri: https://www.typingmind.com/_next/static/75c8cHkDMbP7Bp6cLxwwg/_ssgManifest.js
+File Name: C:\Users\Burnersen\Downloads\test\www.typingmind.com\_next\static\75c8cHkDMbP7Bp6cLxwwg\_ssgManifest.js
+Content Type: application/javascript
+
+Uri: https://www.typingmind.com/_next/static/chunks/111-f020d3ea076aadf6.js
+File Name: C:\Users\Burnersen\Downloads\test\www.typingmind.com\_next\static\chunks\111-f020d3ea076aadf6.js
+Content Type: application/javascript
+
+Uri: https://www.typingmind.com/_next/static/chunks/1a48c3c1-13783b018eb239e2.js
+File Name: C:\Users\Burnersen\Downloads\test\www.typingmind.com\_next\static\chunks\1a48c3c1-13783b018eb239e2.js
+Content Type: application/javascript
+
+Uri: https://www.typingmind.com/_next/static/chunks/1bfc9850-9e035ba5d3617207.js
+File Name: C:\Users\Burnersen\Downloads\test\www.typingmind.com\_next\static\chunks\1bfc9850-9e035ba5d3617207.js
+Content Type: application/javascript
+
+Uri: https://www.typingmind.com/_next/static/chunks/252f366e-3f332e93a6a1b811.js
+File Name: C:\Users\Burnersen\Downloads\test\www.typingmind.com\_next\static\chunks\252f366e-3f332e93a6a1b811.js
+Content Type: application/javascript
+
+Uri: https://www.typingmind.com/_next/static/chunks/256-06e43383f02262d8.js
+File Name: C:\Users\Burnersen\Downloads\test\www.typingmind.com\_next\static\chunks\256-06e43383f02262d8.js
+Content Type: application/javascript
+
+Uri: https://www.typingmind.com/_next/static/chunks/291-3228a580265023b7.js
+File Name: C:\Users\Burnersen\Downloads\test\www.typingmind.com\_next\static\chunks\291-3228a580265023b7.js
+Content Type: application/javascript
+
+Uri: https://www.typingmind.com/_next/static/chunks/29107295-8ab47bb7d9547e26.js
+File Name: C:\Users\Burnersen\Downloads\test\www.typingmind.com\_next\static\chunks\29107295-8ab47bb7d9547e26.js
+Content Type: application/javascript
+
+Uri: https://www.typingmind.com/_next/static/chunks/3-d76181307dc8d48d.js
+File Name: C:\Users\Burnersen\Downloads\test\www.typingmind.com\_next\static\chunks\3-d76181307dc8d48d.js
+Content Type: application/javascript
+
+Uri: https://www.typingmind.com/_next/static/chunks/36-b6c9f9836b5f0bca.js
+File Name: C:\Users\Burnersen\Downloads\test\www.typingmind.com\_next\static\chunks\36-b6c9f9836b5f0bca.js
+Content Type: application/javascript
+
+Uri: https://www.typingmind.com/_next/static/chunks/471-2e30c362a8125db7.js
+File Name: C:\Users\Burnersen\Downloads\test\www.typingmind.com\_next\static\chunks\471-2e30c362a8125db7.js
+Content Type: application/javascript
+
+Uri: https://www.typingmind.com/_next/static/chunks/571-f20af673f011f19e.js
+File Name: C:\Users\Burnersen\Downloads\test\www.typingmind.com\_next\static\chunks\571-f20af673f011f19e.js
+Content Type: application/javascript
+
+Uri: https://www.typingmind.com/_next/static/chunks/601-f826c4f14b250859.js
+File Name: C:\Users\Burnersen\Downloads\test\www.typingmind.com\_next\static\chunks\601-f826c4f14b250859.js
+Content Type: application/javascript
+
+Uri: https://www.typingmind.com/_next/static/chunks/834-a35b34a031c1762f.js
+File Name: C:\Users\Burnersen\Downloads\test\www.typingmind.com\_next\static\chunks\834-a35b34a031c1762f.js
+Content Type: application/javascript
+
+Uri: https://www.typingmind.com/_next/static/chunks/957-54fc2448ab8d9a46.js
+File Name: C:\Users\Burnersen\Downloads\test\www.typingmind.com\_next\static\chunks\957-54fc2448ab8d9a46.js
+Content Type: application/javascript
+
+Uri: https://www.typingmind.com/_next/static/chunks/ae51ba48-1fccac9ef22bd5bc.js
+File Name: C:\Users\Burnersen\Downloads\test\www.typingmind.com\_next\static\chunks\ae51ba48-1fccac9ef22bd5bc.js
+Content Type: application/javascript
+
+Uri: https://www.typingmind.com/_next/static/chunks/d64684d8-28abf77d9b857d8d.js
+File Name: C:\Users\Burnersen\Downloads\test\www.typingmind.com\_next\static\chunks\d64684d8-28abf77d9b857d8d.js
+Content Type: application/javascript
+
+Uri: https://www.typingmind.com/_next/static/chunks/d7eeaac4-3b4b6d32bad9b30f.js
+File Name: C:\Users\Burnersen\Downloads\test\www.typingmind.com\_next\static\chunks\d7eeaac4-3b4b6d32bad9b30f.js
+Content Type: application/javascript
+
+Uri: https://www.typingmind.com/_next/static/chunks/fec483df-c5d8732f24e18bee.js
+File Name: C:\Users\Burnersen\Downloads\test\www.typingmind.com\_next\static\chunks\fec483df-c5d8732f24e18bee.js
+Content Type: application/javascript
+
+Uri: https://www.typingmind.com/_next/static/chunks/framework-d0d2aea81547c455.js
+File Name: C:\Users\Burnersen\Downloads\test\www.typingmind.com\_next\static\chunks\framework-d0d2aea81547c455.js
+Content Type: application/javascript
+
+Uri: https://www.typingmind.com/_next/static/chunks/main-46d7d4518a70ec45.js
+File Name: C:\Users\Burnersen\Downloads\test\www.typingmind.com\_next\static\chunks\main-46d7d4518a70ec45.js
+Content Type: application/javascript
+
+Uri: https://www.typingmind.com/_next/static/chunks/pages/index-12034f974e033747.js
+File Name: C:\Users\Burnersen\Downloads\test\www.typingmind.com\_next\static\chunks\pages\index-12034f974e033747.js
+Content Type: application/javascript
+
+Uri: https://www.typingmind.com/_next/static/chunks/pages/_app-bbaf0bd9cdc2b9ea.js
+File Name: C:\Users\Burnersen\Downloads\test\www.typingmind.com\_next\static\chunks\pages\_app-bbaf0bd9cdc2b9ea.js
+Content Type: application/javascript
+
+Uri: https://www.typingmind.com/_next/static/chunks/polyfills-c67a75d1b6f99dc8.js
+File Name: C:\Users\Burnersen\Downloads\test\www.typingmind.com\_next\static\chunks\polyfills-c67a75d1b6f99dc8.js
+Content Type: application/javascript
+
+Uri: https://www.typingmind.com/_next/static/chunks/webpack-41e4e2d1eb0c0667.js
+File Name: C:\Users\Burnersen\Downloads\test\www.typingmind.com\_next\static\chunks\webpack-41e4e2d1eb0c0667.js
+Content Type: application/javascript
+
+Uri: https://www.typingmind.com/_next/static/css/0faaf7dcc89cfd72.css
+File Name: C:\Users\Burnersen\Downloads\test\www.typingmind.com\_next\static\css\0faaf7dcc89cfd72.css
+Content Type: text/css
+
